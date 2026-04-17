@@ -1,4 +1,4 @@
-# SAP Full Stack Application: Agile Workforce Policy Implementation with Dynamic Workflow &amp; Authorization | Modern Enterprise HR Solution 🏢
+# 👩🏻‍💻 SAP Full Stack Application: 📜 Agile Workforce Policy Implementation with 🪪 Dynamic Workflow &amp; 🔒 Authorization | Modern Enterprise HR Solution 🏢
 
 • Led the design and implementation of an enterprise-wide Agile Workforce Policy solution in SAP HCM, enabling a shift from traditional attendance-based tracking to a flexible, outcome-driven work model.
 
