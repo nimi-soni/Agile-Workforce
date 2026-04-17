@@ -1,4 +1,4 @@
-# SAP Full Stack Application: Agile Workforce Policy Implementation with Dynamic Workflow &amp; Authorization | Modern Enterprise HR Solution
+# SAP Full Stack Application: Agile Workforce Policy Implementation with Dynamic Workflow &amp; Authorization | Modern Enterprise HR Solution 🏢
 
 • Led the design and implementation of an enterprise-wide Agile Workforce Policy solution in SAP HCM, enabling a shift from traditional attendance-based tracking to a flexible, outcome-driven work model.
 
@@ -16,10 +16,10 @@ The solution introduced a digital self-service platform (BSP-based) integrated w
     * Apply for Agile Work Models (WFH, Flexi, Hybrid) 
 * View request status and approval hierarchy
 * Integrated with SICF services for seamless web enablement within SAP ESS. 
-________________________________________
 
 <a href = "https://raw.githubusercontent.com/nimi-soni/Agile-Workforce/refs/heads/main/FullStack/Agile%20(3).png">
- <img src = "https://raw.githubusercontent.com/nimi-soni/Agile-Workforce/refs/heads/main/FullStack/Agile%20(3).png" align = "center"></a>
+ <img src = "https://raw.githubusercontent.com/nimi-soni/Agile-Workforce/refs/heads/main/FullStack/Agile%20(3).png" align = "center"></a><br/>
+<br/>
  
 **2. Custom Infotype & Data Architecture**
 * Engineered a new custom Infotype with dedicated screen design to capture Agile Workforce data.
@@ -44,9 +44,10 @@ ________________________________________
     * Re-submission scenarios
  
  <a href = "https://raw.githubusercontent.com/nimi-soni/Agile-Workforce/refs/heads/main/FullStack/Agile%20(4).png">
- <img src = "https://raw.githubusercontent.com/nimi-soni/Agile-Workforce/refs/heads/main/FullStack/Agile%20(4).png" align = "center"></a>
+ <img src = "https://raw.githubusercontent.com/nimi-soni/Agile-Workforce/refs/heads/main/FullStack/Agile%20(4).png" align = "center"></a> 
+ <br/>
+<br/>
  
-________________________________________
 **4. Role-Based Authorization Framework**
 * Designed and implemented custom authorization objects and roles to control system access.
 * Enforced strict validation ensuring:
@@ -62,7 +63,7 @@ ________________________________________
 
   <a href = "https://raw.githubusercontent.com/nimi-soni/Agile-Workforce/refs/heads/main/FullStack/Agile%20(1).png">
  <img src = "https://raw.githubusercontent.com/nimi-soni/Agile-Workforce/refs/heads/main/FullStack/Agile%20(1).png" align = "center"></a>
-________________________________________
+
 **6. Notification & Communication Framework**
 * Integrated event-driven email notifications across workflow stages:
     * Request submission
@@ -76,11 +77,19 @@ ________________________________________
     * Ownership and approval levels
 * Provided employees with complete visibility into request lifecycle.
 
-<a href = "https://raw.githubusercontent.com/nimi-soni/Agile-Workforce/refs/heads/main/FullStack/Agile%20(2).png">
- <img src = "https://raw.githubusercontent.com/nimi-soni/Agile-Workforce/refs/heads/main/FullStack/Agile%20(2).png" align = "center"></a>
- 
 ________________________________________
+
+**Technical Architecture**
+* End-to-end ownership (Frontend/Presentation: UI + backend/Business Logic + workflow + security/Database).
+* Policy implementation, not just development.
+* Modern SAP capability (BSP + ESS + Workflow + Authorization) .
+
+<a href = "https://raw.githubusercontent.com/nimi-soni/Agile-Workforce/refs/heads/main/FullStack/Agile%20(2).png">
+ <img src = "https://raw.githubusercontent.com/nimi-soni/Agile-Workforce/refs/heads/main/FullStack/Agile%20(2).png" align = "center"></a><br/>
+<br/> 
+
 **Business Impact**:
+
 * Enabled organization-wide adoption of a flexible, outcome-driven workforce model.
 * Reduced dependency on manual approvals and email-based coordination, improving efficiency.
 * Delivered faster decision-making through dynamic and automated workflow routing.
