@@ -5,6 +5,7 @@
 The solution introduced a digital self-service platform (BSP-based) integrated with SAP HR, featuring dynamic workflow orchestration, role-based authorization, and real-time policy enforcement to support diverse workforce models such as Work From Home, Flexi, and Hybrid structures.
 
 **Key Functionalities:**
+ 
 **1. BSP-Based Employee Self-Service Portal**
 * Designed and developed a custom BSP application serving as the central interface for Agile Workforce requests.
 * Built multiple interactive pages:
@@ -16,6 +17,10 @@ The solution introduced a digital self-service platform (BSP-based) integrated w
 * View request status and approval hierarchy
 * Integrated with SICF services for seamless web enablement within SAP ESS. 
 ________________________________________
+
+<a href = "https://raw.githubusercontent.com/nimi-soni/Agile-Workforce/refs/heads/main/FullStack/Agile%20(3).png">
+ <img src = "https://raw.githubusercontent.com/nimi-soni/Agile-Workforce/refs/heads/main/FullStack/Agile%20(3).png" align = "center"></a>
+ 
 **2. Custom Infotype & Data Architecture**
 * Engineered a new custom Infotype with dedicated screen design to capture Agile Workforce data.
 * Stored critical attributes:
@@ -36,7 +41,11 @@ ________________________________________
 * Supported:
     * Approval / Rejection
     * Request withdrawal
-    * Re-submission scenarios 
+    * Re-submission scenarios
+ 
+ <a href = "https://raw.githubusercontent.com/nimi-soni/Agile-Workforce/refs/heads/main/FullStack/Agile%20(4).png">
+ <img src = "https://raw.githubusercontent.com/nimi-soni/Agile-Workforce/refs/heads/main/FullStack/Agile%20(4).png" align = "center"></a>
+ 
 ________________________________________
 **4. Role-Based Authorization Framework**
 * Designed and implemented custom authorization objects and roles to control system access.
@@ -49,7 +58,10 @@ ________________________________________
 * Built validation logic within BSP layer to ensure:
     * Eligibility criteria checks
     * Conflict prevention (overlapping requests, invalid durations)
-* Enabled system-driven enforcement of organization-specific Agile Workforce policies. 
+* Enabled system-driven enforcement of organization-specific Agile Workforce policies.
+
+  <a href = "https://raw.githubusercontent.com/nimi-soni/Agile-Workforce/refs/heads/main/FullStack/Agile%20(1).png">
+ <img src = "https://raw.githubusercontent.com/nimi-soni/Agile-Workforce/refs/heads/main/FullStack/Agile%20(1).png" align = "center"></a>
 ________________________________________
 **6. Notification & Communication Framework**
 * Integrated event-driven email notifications across workflow stages:
@@ -62,7 +74,11 @@ ________________________________________
 * Developed pending request dashboards for approvers to track:
     * Requests awaiting action
     * Ownership and approval levels
-* Provided employees with complete visibility into request lifecycle. 
+* Provided employees with complete visibility into request lifecycle.
+
+<a href = "https://raw.githubusercontent.com/nimi-soni/Agile-Workforce/refs/heads/main/FullStack/Agile%20(2).png">
+ <img src = "https://raw.githubusercontent.com/nimi-soni/Agile-Workforce/refs/heads/main/FullStack/Agile%20(2).png" align = "center"></a>
+ 
 ________________________________________
 **Business Impact**:
 * Enabled organization-wide adoption of a flexible, outcome-driven workforce model.
